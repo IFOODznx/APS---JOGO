@@ -23,7 +23,7 @@ A proposta une diversão com conscientização ambiental por meio de mecânicas 
 # 📷 Screenshot
 
 <p align="center">
-  <img src="./screenshot-jogo.png" width="800"/>
+  <img src="./Menu.png" width="800"/>
 </p>
 
 ---
