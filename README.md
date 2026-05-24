@@ -1,164 +1,101 @@
 # APS - JOGO
-♻️ Recicle
+---
 
-Jogo 2D de plataforma com foco em conscientização ambiental, reciclagem e preservação da natureza.
+# ♻️ Recicle
 
-📚 Sobre o Projeto
+Um jogo 2D plataforma em pixel art desenvolvido na Unity, com foco em reciclagem, exploração, pontuação e conscientização ambiental.
 
-Recicle é um jogo digital 2D desenvolvido como projeto acadêmico da:
+---
 
+# 🎮 Sobre o jogo
+
+**Recicle** é um projeto acadêmico desenvolvido na
 🎓 Universidade Paulista
 
-O projeto foi criado com a proposta de unir entretenimento, educação ambiental e desenvolvimento de jogos digitais, incentivando a reflexão sobre reciclagem, descarte correto do lixo e preservação do meio ambiente.
+O jogo se passa em um ambiente poluído e tomado por resíduos espalhados pelo cenário.
 
-📖 História
+O jogador assume o papel do protagonista responsável por limpar esse ambiente, coletando itens recicláveis, enfrentando inimigos e restaurando o equilíbrio da natureza.
 
-A história de Recicle acontece em um ambiente tomado pela poluição e pelo descarte irregular de resíduos.
+A proposta une diversão com conscientização ambiental por meio de mecânicas interativas e gameplay estilo plataforma 2D.
 
-O cenário, que antes era limpo e agradável, acabou sendo contaminado pelo acúmulo de lixo espalhado por todo o local.
+---
 
-Ao perceber isso, o protagonista assume a missão de restaurar o ambiente.
+# 📷 Screenshot
 
-Durante sua jornada ele precisa:
+<p align="center">
+  <img src="./screenshot-jogo.png" width="800"/>
+</p>
 
-recolher resíduos espalhados pelo mapa
-enfrentar inimigos presentes no cenário
-organizar os materiais coletados
-contribuir para recuperar o equilíbrio da natureza
+---
 
-Ao final, o ambiente é restaurado e volta a ser limpo, organizado e preservado.
+# ✨ Mecânicas implementadas
 
-🎮 Gameplay
+* ✅ Movimento do player
+* ✅ Pulo
+* ✅ Sistema de inimigos
+* ✅ Eliminação de inimigos ao pular na cabeça
+* ✅ Sistema de pontuação
+* ✅ Coleta de itens recicláveis
+* ✅ Drag and Drop de objetos
+* ✅ Game Over
+* ✅ Progressão por fases
+* ✅ Interface mobile com botões touchscreen
+* ✅ Compatibilidade com teclado no PC
+* ✅ Colisão 2D
+* ✅ Pixel Art
+* ✅ Build multiplataforma
 
-Recicle é um jogo 2D plataforma em pixel art, com foco em movimentação, coleta de itens, combate contra inimigos e interação com objetos do cenário.
+---
 
-O jogador deve explorar cada fase, superar obstáculos, coletar resíduos e completar objetivos para avançar.
+# 📱 Plataformas
 
-⚙️ Mecânicas
-🏃 Movimentação
-andar para esquerda
-andar para direita
-pular
-movimentação em plataforma 2D
-👾 Sistema de inimigos
+O jogo foi desenvolvido com suporte para:
 
-Durante as fases existem inimigos espalhados pelo cenário que impedem o avanço do jogador.
+* 📱 **Mobile**
+* 💻 **PC / Desktop**
 
-Eliminação por pulo
+---
 
-Ao pular na cabeça do inimigo:
+# 🕹️ Controles
 
-✅ inimigo é derrotado
+## PC
 
-Caso o jogador toque nele pela lateral ou diretamente:
+* **A / D** ou **← →** → movimentação
+* **Espaço** → pular
 
-❌ Game Over
+## Mobile
 
-📱 Botões Mobile
+* ⬅️ mover para esquerda
+* ➡️ mover para direita
+* ⬆️ botão de pulo
 
-O jogo possui suporte para dispositivos móveis com controles na tela:
+---
 
-botão esquerda
-botão direita
-botão de pulo
+# 🏆 Objetivo
 
-Com jogabilidade adaptada para touchscreen.
+O objetivo principal do jogo é:
 
-💻 Compatível com PC
+* ♻️ coletar resíduos espalhados pelo mapa
+* 👾 derrotar inimigos
+* ⭐ ganhar pontos
+* 🌱 limpar o ambiente contaminado
+* 🌍 incentivar a reciclagem e preservação ambiental
 
-Também pode ser jogado no computador com teclado.
+---
 
-Controles
-A / D ou Setas → movimentação
-Espaço → pulo
-🖐️ Drag and Drop
+# 🛠️ Tecnologias utilizadas
 
-Sistema de arrastar e soltar itens, permitindo interação direta com objetos do cenário.
+* Unity
+* C#
+* Pixel Art
+* Physics 2D
+* UI Mobile
+* Sistema de Pontuação
+* Drag and Drop
+* Gameplay Platformer 2D
 
-Pode ser utilizado com:
+---
 
-mouse no PC
-toque no mobile
-♻️ Coleta de itens
-
-Ao longo da fase o jogador encontra resíduos e objetos recicláveis espalhados pelo mapa.
-
-Exemplos:
-
-plástico
-papel
-vidro
-objetos descartáveis
-resíduos recicláveis
-🏆 Sistema de pontuação
-
-O jogo possui pontuação baseada nas ações do jogador.
-
-Pontos são obtidos ao:
-
-✅ coletar itens
-✅ completar objetivos
-✅ avançar de fase
-
-Quanto maior a coleta e progresso, maior a pontuação.
-
-💀 Game Over
-
-O jogador perde quando:
-
-encosta no inimigo da forma errada
-falha em obstáculos
-sofre dano durante a fase
-
-Ao perder:
-
-aparece tela de Game Over
-reinício da fase
-🎯 Objetivo do jogo
-
-O objetivo principal de Recicle é:
-
-✅ coletar resíduos espalhados pelo cenário
-✅ derrotar inimigos
-✅ interagir com objetos
-✅ acumular pontos
-✅ concluir as fases
-✅ restaurar o ambiente poluído
-
-Além da gameplay, o projeto busca transmitir uma mensagem de conscientização sobre:
-
-🌱 preservação ambiental
-♻️ reciclagem
-🗑️ descarte correto do lixo
-🌍 cuidado com o meio ambiente
-
-🛠️ Tecnologias Utilizadas
-Unity
-C#
-Pixel Art
-Sistema Platformer 2D
-UI Mobile
-Sistema de pontuação
-Drag and Drop
-Sistema de colisão 2D
-Animações 2D
-Build multiplataforma
-📲 Plataformas
-Disponível para:
-
-📱 Mobile
-💻 PC/Desktop
-
-🎓 Projeto Acadêmico
-
-Projeto desenvolvido como trabalho acadêmico da:
-
-🎓 Universidade Paulista
-
-Com foco em:
-
-desenvolvimento de jogos digitais
-programação em C#
-game design
-mecânicas multiplataforma
-conscientização ambiental através de jogos
+<p align="center">
+♻️ <strong>Recicle</strong> — jogar, reciclar e preservar.
+</p>
