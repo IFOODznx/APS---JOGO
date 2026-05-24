@@ -25,7 +25,20 @@ A proposta une diversão com conscientização ambiental por meio de mecânicas 
 <p align="center">
   <img src="./Menu.png" width="800"/>
 </p>
-
+---
+<p align="center">
+  <img src="./Lv1.png" width="800"/>
+</p>
+---
+---
+<p align="center">
+  <img src="./Lv2.png" width="800"/>
+</p>
+---
+---
+<p align="center">
+  <img src="./Lv3.png" width="800"/>
+</p>
 ---
 
 # ✨ Mecânicas implementadas
