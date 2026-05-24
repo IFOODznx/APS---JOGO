@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e70a956fb61ee704081ed331488487dd
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 80f3227a204fbdf4c9be2a7a8215f1a1
+  - enabled: 1
+    path: Assets/Scenes/Tutorial_1.unity
+    guid: 27436a22373a7d140afb584f6ef0cbe0
+  - enabled: 1
+    path: Assets/Scenes/NIvel_1.unity
+    guid: f9b1d789aeb2db941be6e4a862d52c1d
+  - enabled: 1
+    path: Assets/Scenes/Tutorial_2.unity
+    guid: 8933b231fc45c544b93812882d6660b2
+  - enabled: 1
+    path: Assets/Scenes/Nivel_2.unity
+    guid: e71c249bae3e41a49aab7a8e720cb598
+  - enabled: 1
+    path: Assets/Scenes/Tutorial_3.unity
+    guid: e50b16a2fa2b0ab4b963b43be6c3604a
+  - enabled: 1
+    path: Assets/Scenes/Nivel_3.unity
+    guid: fa8925b5621724743b49bc3027222172
+  - enabled: 1
+    path: Assets/Scenes/MsgComprido.unity
+    guid: c0b37c9a24d9fd54bb016dd866cc2cae
+  - enabled: 1
+    path: Assets/Scenes/Limpo.unity
+    guid: 9ec01f451cbe7424b9034848ef96bd13
+  m_configObjects: {}
