@@ -27,7 +27,7 @@ A proposta une diversão com conscientização ambiental por meio de mecânicas 
 </p>
 
 <p align="center">
-  <img src="./Lv1.png" width="800"/>
+  <img src="./lv1.png" width="800"/>
 </p>
 
 <p align="center">
